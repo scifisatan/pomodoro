@@ -2,7 +2,7 @@
   "name": "pomodoro",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://scifisatan.github.io/pomodoro",
+  "homepage": "https://abishrestha.com.np/pomodoro",
   "type": "module",
   "scripts": {
     "dev": "vite",
